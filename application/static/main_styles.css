@@ -1,5 +1,5 @@
 body {
-    background-color: linen;
+    background-color: lightgrey;
     margin: 20px;
     font-family: Cambria, Verdana, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -33,7 +33,7 @@ footer {
 }
 
 .button {
-  background-color: DarkGoldenrod;
+  background-color: orangered;
   border: none;
   color: white;
   padding: 15px 32px;
